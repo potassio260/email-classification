@@ -13,5 +13,5 @@ The foundation of this project is built, but an AI is only as good as its traini
 
 If you know of any open-source datasets or want to contribute your anonymized inbox data, please feel free to open an issue or reach out!
 
-##  Getting Started
-*(Instructions on how to set up the project will go here once the codebase is ready)*
+## Installation & Setup
+*(Instructions on how to set up the project will go here once the codebase is ready)* - Currently unavailable
