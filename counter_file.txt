@@ -1,0 +1,7 @@
+assignment 11
+class-teams 32
+club-activitie 3
+competition 16
+direct-mail 14
+exam-notice 10
+other 7
